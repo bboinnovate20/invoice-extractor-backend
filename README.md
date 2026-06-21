@@ -5,7 +5,7 @@ The aim of this is to practice and learn Cloud deployment, using Lambda function
 ---
 
 **Backend Deployed URL**: `POST https://unk0evcl6k.execute-api.us-east-1.amazonaws.com/prod/`
-**Full App Deployment**: `https://ai-invoice-extractor-p0k3vkim8-bboinnovate20s-projects.vercel.app/`
+**Full App Deployment**: [https://ai-invoice-extractor-p0k3vkim8-bboinnovate20s-projects.vercel.app/](https://ai-invoice-extractor-p0k3vkim8-bboinnovate20s-projects.vercel.app/)
 
 ## Core Functionalities
 
