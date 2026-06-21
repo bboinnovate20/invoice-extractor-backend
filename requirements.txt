@@ -1,0 +1,12 @@
+certifi==2026.5.20
+charset-normalizer==3.4.7
+idna==3.18
+packaging==26.2
+# pillow>=11.0.0
+# PyMuPDF==1.27.2.3
+# pytesseract==0.3.13
+requests==2.34.2
+urllib3==2.7.0
+openai==2.42.0
+pandas==3.0.3
+openpyxl==3.1.5

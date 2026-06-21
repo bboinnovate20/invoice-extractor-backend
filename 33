@@ -1,0 +1,87 @@
+OCR failed: (127, '/usr/local/bin/tesseract: error while loading shared libraries: libpng16.so.16: cannot open shared object file: No such file or directory')
+
+END RequestId: 4d42d920-22e4-44df-951e-e0f92e07983a
+
+REPORT RequestId: 4d42d920-22e4-44df-951e-e0f92e07983a	Duration: 1136.95 ms	Billed Duration: 1137 ms	Memory Size: 3008 MB	Max Memory Used: 3008 MB	
+
+but i saw the file 
+
+
+Name
+sys
+
+17 minutes ago
+dr-xr-xr-x
+THIRD-PARTY-LICENSES.txt
+
+643.7 kB
+4 days ago
+-rw-r--r--
+tmp
+
+1 minute ago
+dtrwxrwxrwx
+usr
+
+17 hours ago
+drwxr-xr-x
+bin
+
+27 days ago
+dr-xr-xr-x
+games
+
+3 years ago
+drwxr-xr-x
+include
+
+3 years ago
+drwxr-xr-x
+lib
+
+27 days ago
+dr-xr-xr-x
+lib64
+
+20 days ago
+dr-xr-xr-x
+libexec
+
+27 days ago
+drwxr-xr-x
+local
+
+17 hours ago
+drwxr-xr-x
+bin
+
+22 minutes ago
+drwxr-xr-x
+aws-lambda-rie
+
+8.8 MB
+2 days ago
+-rwxr-xr-x
+tesseract
+
+1.3 MB
+22 minutes ago
+-rwxr-xr-x
+
+
+17 Jun 2026 11:32:07,139 [INFO] (rapid) INVOKE RTDONE(status: success, produced bytes: 0, duration: 1136.643000ms)
+
+
+17 Jun 2026 11:34:34,501 [INFO] (rapid) INVOKE START(requestId: c61b0968-b900-45bc-bc2e-0580ab9926ce)
+
+Received raw event: {"name": "Ibrahim2", "image": "https://business-extractor.s3.us-east-1.amazonaws.com/pdf_excel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5QPLJPOJZD3UKCHI%2F20260617%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260617T112140Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=249aff99174441f5cf9e833d4897d084f347bc48d772800fe176d11deba5a374"}
+
+Processing chunk 0
+
+OCR failed: (127, '/usr/local/bin/tesseract: error while loading shared libraries: libpng16.so.16: cannot open shared object file: No such file or directory')
+
+17 Jun 2026 11:34:35,988 [INFO] (rapid) INVOKE RTDONE(status: success, produced bytes: 0, duration: 1486.320000ms)
+
+END RequestId: c61b0968-b900-45bc-bc2e-0580ab9926ce
+
+REPORT RequestId: c61b0968-b900-45bc-bc2e-0580ab9926ce	Duration: 1486.51 ms	Billed Duration: 1487 ms	Memory Size: 3008 MB	Max Memory Used: 3008 MB	
