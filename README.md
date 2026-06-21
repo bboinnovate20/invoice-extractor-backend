@@ -1,6 +1,6 @@
 # Invoice Extractor — Backend
 
-The aim of this is to practice and learn Cloud deployment, using Lambda function, AWS S3 storage, AWS IAM for User roles and management, AWS CloudWatch and AWS API gateway
+The aim of this project is to practise and learn cloud deployment using AWS Lambda for serverless compute, Amazon S3 for file storage, AWS IAM for user roles and permission management, Amazon CloudWatch for logging and monitoring, and AWS API Gateway for HTTP routing, as well as to practise system design decisions around performance and compute distribution.
 
 ---
 
